@@ -1,4 +1,4 @@
-# Vue-Roadmap
+# Vue-Roadmap(2019/7/8)
 Learning from begining
 
 # Vue Introduction            https://vuejs.org/v2/guide/index.html
@@ -7,4 +7,5 @@ Learning from begining
   - Handling User Input
   - Composing with Components
   
-# Vue Life Cycle            http://nirmalhota.com/wp-content/uploads/2018/06/lifecycle-vuejs.png
+# Vue Life Cycle(2019/7/9)            http://nirmalhota.com/wp-content/uploads/2018/06/lifecycle-vuejs.png
+ - clearly defined with output in js console and rendering in html body     https://www.youtube.com/watch?v=WSXN-p7jVIk
